@@ -1,0 +1,7 @@
+host:port:database:user:password
+sandbox1.vensav.com:5432:analytics:foolish_user:dsfdhgrjh
+webapp.vensav.com:5432:airflow_db:bahubali:dgfjghk
+backend.vensav.com:5432:edwdb:kramasubramanian:dfhfgj
+namenode.vensav.com:5432:edwdb_uat:kramasubramanian:qwwetrt
+datanode2.vensav.com:5432:analytics:krama:@!rery0t!$!
+datanode2.vensav.com:5432:edwdb:liyer:!rery0t!$!
